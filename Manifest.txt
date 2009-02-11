@@ -1,0 +1,9 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+UTF-8-test.txt
+lib/dm-utf8.rb
+lib/version.rb
+spec/spec.rb
+text
